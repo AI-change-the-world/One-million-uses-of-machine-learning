@@ -1,5 +1,5 @@
 # One-million-uses-of-machine-learning
-神经网络的100万种整活方式（标题为机翻）
+机器学习的100万种整活方式（标题为机翻）
 
 ## 1. 使用flutter与python制作的简单聊天机器人
 [code](https://github.com/AI-change-the-world/chat-robot-with-flutter)
